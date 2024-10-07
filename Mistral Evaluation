@@ -1,0 +1,11 @@
+Questions to answer:
+
+  Try to find what could be possible reason that we did not the the evaualtion loss on friday. : Marie
+
+
+
+  
+[ ]  Do we need to import lora during testing also: Nolan, Sagnik
+[ ]  max_length = input tensor + output tensor. Is max_new_token is the substitute for it: Snigdha
+[ ]  Whether we set max_new_token = topk (50 token): shruthi
+[ ]  top p  (.5). What would be relation between top k and top p: sofiyaan, shivani,
